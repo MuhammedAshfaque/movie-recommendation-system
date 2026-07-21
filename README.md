@@ -1,10 +1,6 @@
-# Movie Recommendation System 🎬
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/framework-Streamlit-FF4B4B.svg)](https://streamlit.io/)
-[![Dataset](https://img.shields.io/badge/dataset-TMDB%205000-orange.svg)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Movie Recommendation System 
 An interactive, content-based Movie Recommendation System built with Python and Streamlit. The application recommends similar movies based on metadata (genres, keywords, cast, crew, and overview) using Natural Language Processing (NLP) and Cosine Similarity.
-🔗 **Live Demo:** [View Live Web App](https://movie-recommending-system-uims.onrender.com/)
+ **Live Demo:** [View Live Web App](https://movie-recommending-system-uims.onrender.com/) Since it is deployed with free plan of render, You need to wait for 20 to 30 second to load the page.
 ---
 ##  Features
 * **Content-Based Recommendations:** Recommends the top 5 most relevant movies similar to the user's search.
